@@ -6,4 +6,6 @@ And I have a bit of experience with HTML and CSS.
 ##### Currently learning:
 - JavaScript
 
-In the case I can be of service, hit me up on Discord: Behe#6277.
+Contact: [LinkedIn](https://www.linkedin.com/in/rodrigo-facundo-6403aa22b/) | <rodrigotfacundo@gmail.com>
+
+Hope I can be of service.
