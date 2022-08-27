@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 #### I'm Rodrigo!
-And I have a bit of experience with HTML and CSS.
+And I have a bit of experience with HTML, CSS and JS.
 
 ##### Currently learning:
-- JavaScript
+- Frameworks and Libraries
 
 Contact: [LinkedIn](https://www.linkedin.com/in/rodrigo-facundo-6403aa22b/) | <rodrigotfacundo@gmail.com>
 
